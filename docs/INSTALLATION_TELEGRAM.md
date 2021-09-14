@@ -8,4 +8,4 @@ Consuming the Susi API with Telegram is fairly straightforward in telegram. The 
 
 Once this is set, you need to update the token using heroku as follows
 
-`heroku config:set TELEGRAM_ACCESS_TOKEN=AVERYLONGTOKEN:GOESOVERHEREFORYOUTORUNSUSIONTELEGRAM`
+`heroku config:set TELEGRAM_ACCESS_TOKEN=1877430106:AAHwqTEQwVGiYJ5Zn9m_cCr3ixAJC3DU844`
